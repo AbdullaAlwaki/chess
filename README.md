@@ -1,4 +1,4 @@
 # chess borad
 
 
-[chess](./images/chessimage.png)
+![chess](./images/chessimage.png)
